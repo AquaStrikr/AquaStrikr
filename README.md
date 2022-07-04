@@ -1,4 +1,4 @@
-# Hello There
+# AquaStrikr
 * I'm AquaStrikr, very mid
 * I kinda program some stuff so uhh
 * I've playing a lof of [SM64ex-Coop](https://github.com/djoslin0/sm64ex-coop), if you want we can play together! Just DM me on Discord (Aqua Strikr#7979)
