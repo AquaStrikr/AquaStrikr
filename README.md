@@ -1,7 +1,7 @@
 # AquaStrikr
 * I'm AquaStrikr, very mid
-* I kinda program some stuff so uhh
-* I've playing a lof of [SM64ex-Coop](https://github.com/djoslin0/sm64ex-coop), if you want we can play together! Just DM me on Discord (Aqua Strikr#7979)
+* I program some stuff so uhh
+* I've been working on a FNF Modding Engine, named [ReVerb Engine](https://github.com/AquaStrikr/ReVerb-Engine) with [@NoobZiiTo](https://github.com/noobziito)
 
 ## My Stuff
 * I have a [Discord Server](https://discord.gg/QjbQDNSTaF), really cool, we play games and chat lol
