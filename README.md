@@ -1,7 +1,7 @@
 # AquaStrikr
 * I'm AquaStrikr, very mid
 * I program some stuff so uhh
-* I've been working on a FNF Modding Engine, named [ReVerb Engine](https://github.com/AquaStrikr/ReVerb-Engine) with [@NoobZiiTo](https://github.com/noobziito)
+* I've been working on a FNF Modding Engine, named [ReVerb Engine](https://github.com/AquaStrikr/ReVerb-Engine), it's in a beta state, but it'd be cool if you checked out :P
 
 ## My Stuff
 * I have a [Discord Server](https://discord.gg/QjbQDNSTaF), really cool, we play games and chat lol
